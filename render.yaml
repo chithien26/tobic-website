@@ -4,8 +4,11 @@ services:
   - type: web
     name: tobic-api
     runtime: docker
-    rootDir: api
-    dockerfilePath: ./Dockerfile
+    dockerfilePath: ./api/Dockerfile
+    dockerContext: ./api
+    buildFilter:
+      paths:
+        - api/**
     plan: starter
     region: singapore
     healthCheckPath: /health
