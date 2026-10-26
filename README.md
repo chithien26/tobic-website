@@ -65,6 +65,34 @@ Văn bản cố định của trang chủ, trang Giới thiệu và các nhãn g
 
 Deploy API trước rồi mới deploy website, để lúc build website lấy được dữ liệu. Có tên miền riêng thì cập nhật lại `Web__BaseUrl`, `Cors__Origins__0` và `SITE_URL`.
 
+## Deploy website lên Windows Server (IIS)
+
+Script nằm trong `web/deploy/windows/`. Website chạy nền bằng Task Scheduler (tự bật lại khi server khởi động lại), IIS đứng trước làm tên miền và HTTPS.
+
+**Cài một lần** (PowerShell chạy bằng quyền Administrator):
+
+1. Cài [Node.js 24 LTS](https://nodejs.org) và [Git](https://git-scm.com/download/win), rồi mở PowerShell mới.
+2. Lấy code và tạo file cấu hình:
+   ```powershell
+   git clone https://github.com/chithien26/tobic-website.git C:\sites\tobic-website
+   cd C:\sites\tobic-website\web
+   copy deploy\windows\env.production.example .env.production.local
+   notepad .env.production.local
+   ```
+3. Build và chạy: `.\deploy\windows\deploy.ps1`. Thấy `Website is running.` là xong. Website lúc này chạy ở `http://127.0.0.1:3000` trên server.
+4. IIS: cài [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite) và [ARR](https://www.iis.net/downloads/microsoft/application-request-routing), rồi bật proxy:
+   ```powershell
+   $appcmd = "$env:windir\system32\inetsrv\appcmd.exe"
+   & $appcmd set config -section:system.webServer/proxy /enabled:"True" /preserveHostHeader:"True" /commit:apphost
+   & $appcmd set config -section:system.webServer/rewrite/allowedServerVariables /+"[name='HTTP_X_FORWARDED_PROTO']" /+"[name='HTTP_X_FORWARDED_HOST']" /commit:apphost
+   ```
+5. Tạo site trong IIS Manager, trỏ tới thư mục trống `C:\sites\tobic-iis`, binding `http` với tên miền (đã trỏ DNS về IP server). Mở port 80 và 443 trên firewall.
+6. Lấy chứng chỉ HTTPS miễn phí bằng [win-acme](https://www.win-acme.com/): chạy `wacs.exe`, chọn site vừa tạo.
+7. Copy `web\deploy\windows\web.config` vào `C:\sites\tobic-iis`.
+8. Trên Render, đặt `Web__BaseUrl` và `Cors__Origins__0` thành `https://<tên-miền>`.
+
+**Cập nhật về sau:** PowerShell (Administrator) chạy `C:\sites\tobic-website\web\deploy\windows\deploy.ps1`. Script tự `git pull`, build, rồi khởi động lại website (gián đoạn vài giây). Log nằm ở `C:\sites\tobic-web\logs\web.log`.
+
 ## Triển khai bằng Docker
 
 ```powershell
