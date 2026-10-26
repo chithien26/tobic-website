@@ -1,0 +1,811 @@
+{
+  "settings": {
+    "companyName": "TOBIC Co., Ltd.",
+    "legalName": "Công Ty Trách Nhiệm Hữu Hạn TOBIC",
+    "taxCode": "0315566092",
+    "email": "contact@tobic.com.vn",
+    "phone": "+84 28 3823 9326",
+    "ceoName": "Honda Tetsuya",
+    "established": "04/2019",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.271972748328!2d106.71574147573602!3d10.790469458933087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752980188f4abb%3A0x84e5c974056c6945!2sTobic%20Co.%2C%20Ltd!5e0!3m2!1sen!2s!4v1743671630617!5m2!1sen!2s",
+    "introVideoUrl": "",
+    "facebookUrl": "https://www.facebook.com/people/TOBIC-CO-LTD/100072317361762",
+    "linkedinUrl": "",
+    "youtubeUrl": "",
+    "translations": [
+      {
+        "lang": "vi",
+        "address": "Tầng 3, Tòa nhà Kova Center, 92H-92G đường Nguyễn Hữu Cảnh, Phường Thạnh Mỹ Tây, TP.HCM, Việt Nam",
+        "officeNote": "Trụ sở tại Sài Gòn – Văn phòng tại Đà Nẵng"
+      },
+      {
+        "lang": "en",
+        "address": "3rd Floor, Kova Center, 92H-92G Nguyen Huu Canh Street, Thanh My Tay Ward, HCMC, Vietnam",
+        "officeNote": "Saigon Head Office - Danang Branch Office"
+      },
+      {
+        "lang": "ja",
+        "address": "ホーチミン市タンミータイ区グエンフーカイン通り92H-92G、KOVAセンター3階",
+        "officeNote": "サイゴン本社・ダナン支店"
+      }
+    ]
+  },
+  "services": [
+    {
+      "slug": "mo-hinh-bim-kien-truc-ket-cau",
+      "sortOrder": 10,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/mo-hinh-bim-kien-truc-ket-cau-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Lập mô hình BIM kiến trúc & kết cấu",
+          "summary": "Với kinh nghiệm dày dặn trong việc tạo mô hình BIM kiến trúc và kết cấu, chúng tôi đã hoàn thành thành công khoảng 1.300 dự án, mang đến giải pháp sáng tạo và tin cậy cho ngành xây dựng.",
+          "body": "<p>Mở khóa sự chính xác và rõ ràng trong mọi giai đoạn của dự án với dịch vụ mô hình BIM thiết kế và kết cấu của chúng tôi. Chúng tôi cung cấp các mô hình 3D chất lượng cao, giàu dữ liệu, kết hợp giữa ý tưởng kiến trúc và tính toàn vẹn kết cấu. Từ thiết kế khái niệm đến tài liệu xây dựng chi tiết, các mô hình của chúng tôi giúp phối hợp nhịp nhàng, phát hiện va chạm và nâng cao khả năng hình dung dự án.</p>\n<p>Với việc áp dụng các tiêu chuẩn ngành và công cụ BIM tiên tiến, đảm bảo thiết kế của bạn chính xác, tuân thủ và sẵn sàng thi công. Lý tưởng cho các kiến trúc sư, kỹ sư kết cấu và nhà thầu, các giải pháp của chúng tôi hỗ trợ hợp tác hiệu quả và ra quyết định chính xác trong suốt vòng đời của dự án.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Architectural & Structural BIM Model Creation",
+          "summary": "With extensive experience in architectural and structural BIM modeling, our company has successfully delivered approximately 1,300 projects, providing innovative and reliable solutions for the construction industry.",
+          "body": "<p>Unlock precision and clarity in every phase of your project withour Design and Structural BIM Modeling services. We deliver high-quality, data-rich 3D models that integrate architectural intent with structural integrity. From conceptual design to detailed construction documentation, our models enable seamless coordination, clash detection, and enhanced project visualization.</p>\n<p>Leveraging industry standards and cutting-edge BIM tools, we ensure your designs are accurate, compliant, and build-ready. Ideal for architects, structural engineers, and contractors, our solutions support efficient collaboration and informed decision-making across the entire project lifecycle.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "意匠・構造BIMモデル作成",
+          "summary": "建築および構造BIMモデリングの豊富な経験を持つ当社は、約1,300件のプロジェクトを成功裏に提供し、建設業界に革新的で信頼性の高いソリューションを提供しています。",
+          "body": "<p>私たちの設計および構造BIMモデリングサービスで、プロジェクトのすべての段階において精度と明確さを引き出します。私たちは、建築の意図と構造的整合性を統合した高品質でデータ豊富な3Dモデルを提供します。概念設計から詳細な建設ドキュメントに至るまで、私たちのモデルはシームレスな調整、衝突検出、プロジェクト視覚化の向上を実現します。</p>\n<p>Leveraging industry standards and cutting-edge BIM tools, we ensure your designs are accurate, compliant, and build-ready. Ideal for architects, structural engineers, and contractors, our solutions support efficient collaboration and informed decision-making across the entire project lifecycle.</p>"
+        }
+      ]
+    },
+    {
+      "slug": "mo-hinh-bim-mep",
+      "sortOrder": 20,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/mo-hinh-bim-mep-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-bim-mep-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-bim-mep-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-bim-mep-3.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-bim-mep-4.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-bim-mep-5.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Mô hình BIM MEP",
+          "summary": "Chuyên cung cấp giải pháp BIM tổng hợp, tích hợp mô hình kiến trúc, kết cấu và MEP để phối hợp 3D chính xác, phát hiện sớm bất hợp lý và đề xuất giải pháp VE/CD cho dự án xây dựng.",
+          "body": "<p>Dịch vụ Mô Hình BIM MEP của chúng tôi cung cấp các mô hình 3D chính xác, giàu dữ liệu cho hệ thống cơ khí, điện và cấp thoát nước, được tùy chỉnh để phù hợp với nhu cầu của dự án. Sử dụng công nghệ Mô Hình Thông Tin Công Trình (BIM), chúng tôi nâng cao sự phối hợp giữa các ngành, giảm thiểu va chạm và cải thiện chất lượng tài liệu xây dựng.</p>\n<p>Chúng tôi hỗ trợ tất cả các giai đoạn của dự án—từ thiết kế ban đầu đến chế tạo—với các mô hình phản ánh điều kiện thực tế. Dịch vụ bao gồm mô hình hóa HVAC, bố trí điện và chiếu sáng, cấp thoát nước và hệ thống bảo vệ chống cháy, tất cả đều tích hợp vào mô hình kiến trúc và kết cấu. Với giải pháp BIM của chúng tôi, bạn sẽ có được sự hợp tác tốt hơn, giảm thiểu công việc phải làm lại và triển khai dự án hiệu quả hơn.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "MEP BIM Modeling",
+          "summary": "We provide integrated BIM services, specializing in architectural, structural, and MEP (Mechanical, Electrical, and Plumbing) BIM modeling, enabling accurate 3D coordination, early detection of design issues, and advanced VE/CD proposals.",
+          "body": "<p>Our MEP BIM Modeling Services provide accurate, data-rich 3D models for mechanical, electrical, and plumbing systems, customized to fit your project’s needs. Using Building Information Modeling, we enhance coordination across trades, reduce clashes, and improve the quality of construction documentation.</p>\n<p>We support all project phases—from early design to fabrication—with models that reflect real-world conditions. Services include HVAC modeling, electrical and lighting layouts, plumbing, and fire protection systems, all integrated into architectural and structural models. With our BIM solutions, you gain better collaboration, reduced rework, and more efficient project execution.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "設備BIMモデル",
+          "summary": "建築・構造・設備BIMモデルを統合するソリューションを提供し、正確な3D調整や早期不具合発見、VE/CD提案を通じて建設プロジェクトの成功をサポート。",
+          "body": "<p>当社のMEP BIMモデリングサービスは、機械、電気、配管システムの正確でデータ豊富な3Dモデルを提供し、プロジェクトのニーズに合わせてカスタマイズします。ビルディングインフォメーションモデリング（BIM）を使用して、異なる専門分野の調整を強化し、衝突を減らし、建設ドキュメントの品質を向上させます。</p>\n<p>We support all project phases—from early design to fabrication—with models that reflect real-world conditions. Services include HVAC modeling, electrical and lighting layouts, plumbing, and fire protection systems, all integrated into architectural and structural models. With our BIM solutions, you gain better collaboration, reduced rework, and more efficient project execution.</p>"
+        }
+      ]
+    },
+    {
+      "slug": "chi-tiet-cau-tao",
+      "sortOrder": 30,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/chi-tiet-cau-tao-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Các loại chi tiết cấu tạo",
+          "summary": "Ứng dụng công nghệ BIM, chúng tôi cung cấp giải pháp toàn diện cho chi tiết lắp dựng và minh bạch hóa quy trình, đảm bảo sự rõ ràng và chính xác trong mọi giai đoạn dự án xây dựng.",
+          "body": "<p>Với chuyên môn về mô hình BIM cho công trình tạm như giàn giáo, cốp pha và thiết bị hiện trường, chúng tôi đảm bảo tích hợp hiệu quả, an toàn và chính xác từ lập kế hoạch đến thi công.</p>\n<p>Sử dụng công cụ hiện đại và quy trình hợp tác, chúng tôi cung cấp mô hình có thể thi công chính xác, giảm rủi ro, cải thiện liên lạc và nâng cao hiệu quả toàn dự án.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Various Construction Detailing",
+          "summary": "Leveraging BIM technology, we provide comprehensive solutions for detailed assemblies and process visualization, ensuring clarity, precision, and transparency throughout every stage of construction projects.",
+          "body": "<p>Our expertise in BIM modelling for temporary works—such as scaffolding, formwork, and site installations—enables seamless integration with construction workflows, ensuring safety, efficiency, and precision from planning to execution.</p>\n<p>Leveraging advanced tools and collaborative workflows, we deliver accurate, constructible models that mitigate risks, streamline communication, and enhance project outcomes across all construction stages.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "各種詳細納まり",
+          "summary": "BIM技術を活用し、各種詳細納まりと手順の見える化による包括的なソリューションを提供し、建設プロジェクト全体で明確さ・精度・透明性を実現します。",
+          "body": "<p>足場・型枠・現場設備などの仮設工事に特化したBIMモデルを活用し、安全性、効率性、精度を兼ね備えた施工計画から実行までの統合を実現します。</p>\n<p>Leveraging advanced tools and collaborative workflows, we deliver accurate, constructible models that mitigate risks, streamline communication, and enhance project outcomes across all construction stages.</p>"
+        }
+      ]
+    },
+    {
+      "slug": "mo-hinh-chi-tiet-cot-thep",
+      "sortOrder": 40,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/mo-hinh-chi-tiet-cot-thep-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-chi-tiet-cot-thep-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-chi-tiet-cot-thep-2.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Mô hình chi tiết cốt thép",
+          "summary": "Phát triển mô hình BIM chi tiết bao gồm bê tông cốt thép, đảm bảo độ chính xác cho phân tích kết cấu.",
+          "body": "<p>Phát triển mô hình BIM chi tiết bao gồm bê tông cốt thép, đảm bảo độ chính xác cho phân tích kết cấu.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Detailed Rebar Model (Rebar Detailing)",
+          "summary": "Develop a detailed BIM model incorporating reinforced concrete and rebar structures, ensuring precision and accuracy for construction and structural analysis.",
+          "body": "<p>Develop a detailed BIM model incorporating reinforced concrete and rebar structures, ensuring precision and accuracy for construction and structural analysis.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "鉄筋納り詳細モデル",
+          "summary": "鉄筋コンクリート構造を含む詳細なBIMモデルを作成し、正確な構造解析を実現します。",
+          "body": "<p>鉄筋コンクリート構造を含む詳細なBIMモデルを作成し、正確な構造解析を実現します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "mo-phong-tien-do-4d",
+      "sortOrder": 50,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/mo-phong-tien-do-4d-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Mô phỏng tiến độ thi công BIM (4D)",
+          "summary": "Sử dụng BIM 4D tích hợp yếu tố thời gian và mô hình 3D để lập kế hoạch, mô phỏng và giám sát tiến độ.",
+          "body": "<p>Sử dụng BIM 4D tích hợp yếu tố thời gian và mô hình 3D để lập kế hoạch, mô phỏng và giám sát tiến độ.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "BIM Construction Sequencing (4D)",
+          "summary": "We utilizes 4D BIM to integrate time and 3D modeling for enhanced planning, sequencing, simulation, and progress monitoring.",
+          "body": "<p>We utilizes 4D BIM to integrate time and 3D modeling for enhanced planning, sequencing, simulation, and progress monitoring.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "BIM施工ステップ（4D）",
+          "summary": "4D BIMで時間軸と3Dモデルを統合し、計画・シミュレーション・進捗管理を強化します。",
+          "body": "<p>4D BIMで時間軸と3Dモデルを統合し、計画・シミュレーション・進捗管理を強化します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "boc-tach-khoi-luong-5d",
+      "sortOrder": 60,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/boc-tach-khoi-luong-5d-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/boc-tach-khoi-luong-5d-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/boc-tach-khoi-luong-5d-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/boc-tach-khoi-luong-5d-3.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/boc-tach-khoi-luong-5d-4.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Bóc tách khối lượng cốp pha (5D)",
+          "summary": "Cung cấp giải pháp bóc tách khối lượng bằng BIM cho cốp pha, bê tông và thép, ứng dụng chương trình Revit tự động tạo cốp pha nhằm nâng cao hiệu quả dự toán xây dựng.",
+          "body": "<p>Cung cấp giải pháp bóc tách khối lượng bằng BIM cho cốp pha, bê tông và thép, ứng dụng chương trình Revit tự động tạo cốp pha nhằm nâng cao hiệu quả dự toán xây dựng.</p>\n<p>Add-on do Tobic phát triển mang lại khả năng tự động hóa mạnh mẽ cho thiết kế xây dựng. Với package của Tobic, Dynamo có thể tự động tạo cốp pha, nâng cao hiệu quả.</p>\n<p>Nó cũng tạo mô hình 3D và bản vẽ chi tiết cho ALC và ECP. Các bản vẽ mặt cắt tự động theo lưới giúp tăng hiệu suất, độ chính xác và tính nhất quán.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Formwork Quantity Takeoff (5D)",
+          "summary": "We offer BIM-powered solutions for accurate quantity takeoffs, including formwork, concrete, and steel, utilizing Revit’s automatic generation program to streamline construction estimation and ensure project efficiency.",
+          "body": "<p>We offer BIM-powered solutions for accurate quantity takeoffs, including formwork, concrete, and steel, utilizing Revit’s automatic generation program to streamline construction estimation and ensure project efficiency.</p>\n<p>The add-on developed by Tobic offers powerful automation for construction design. With the Tobic package, Dynamo can automatically generate formwork, streamlining processes and improving productivity in structural planning tasks.</p>\n<p>It also creates 3D models and detailed drawings for ALC and ECP. Automatic cross-sectional drawings of grid lines further enhance design efficiency, accuracy, and consistency across multiple project workflows.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "型枠集計 （5D）",
+          "summary": "BIM技術とRevit自動生成プログラムを活用することで、型枠・コンクリート・鉄骨などの各種積算を正確かつ効率的に実施し、建設プロジェクトの円滑化を実現。",
+          "body": "<p>BIM技術とRevit自動生成プログラムを活用することで、型枠・コンクリート・鉄骨などの各種積算を正確かつ効率的に実施し、建設プロジェクトの円滑化を実現。</p>\n<p>Tobicが開発したアドオンは、建設設計の自動化を強力に支援します。Tobicパッケージにより、Dynamoは型枠を自動生成し、業務を効率化し構造計画の生産性を高めます。</p>\n<p>さらに、ALCやECPの3Dモデルや詳細図を生成します。グリッドラインの自動断面図により、設計の効率性、精度、一貫性が複数のプロジェクトワークフローで向上します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "xu-ly-du-lieu-point-cloud",
+      "sortOrder": 70,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/xu-ly-du-lieu-point-cloud-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Xử lý dữ liệu đám mây điểm",
+          "summary": "Chuyên xử lý dữ liệu point cloud từ quét laser 3D, chuyển đổi hiện trạng công trình thành mô hình BIM chính xác, hỗ trợ thiết kế, cải tạo và quản lý vận hành hiệu quả.",
+          "body": "<p>Mô hình Hình Đám Mây Điểm biến môi trường thực tế thành tài sản số chính xác cao bằng cách sử dụng công nghệ quét laser 3D và công nghệ nhiếp ảnh đo lường. Kết quả là một “đám mây điểm” dày đặc - một tập hợp của hàng triệu điểm dữ liệu không gian ghi lại mọi chi tiết của cấu trúc hoặc công trường hiện có. Dữ liệu này sau đó được xử lý bằng phần mềm BIM để tạo ra các mô hình xây dựng chính xác, cho phép các nhóm hình dung, phân tích và phối hợp với độ chính xác vượt trội.</p>\n<p>Dịch vụ Mô Hình Hình Đám Mây Điểm của chúng tôi hỗ trợ cải tạo, nâng cấp và quản lý cơ sở bằng cách cung cấp các đại diện chính xác về điều kiện hiện có. Dù là bảo tồn di sản, phát hiện va chạm, hay xác thực dự án, chúng tôi giúp tối ưu hóa quy trình làm việc của bạn, giảm thiểu lỗi tốn kém và đảm bảo độ chính xác từ thiết kế đến hiện trường trong suốt vòng đời dự án.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Point Cloud Data Processing",
+          "summary": "We specialize in processing point cloud data from 3D laser scans, transforming as-built site conditions into accurate BIM models to support efficient design, renovation, and facility management.",
+          "body": "<p>Point Cloud Modeling transforms real-world environments into highly accurate digital assets by utilizing 3D laser scanning and photogrammetry technologies. The result is a dense “point cloud” — a collection of millions of spatial data points that capture every detail of an existing structure or site. This data is then processed using BIM software to create precise as-built models, allowing teams to visualize, analyze, and coordinate with unmatched accuracy.</p>\n<p>Our Point Cloud Modeling services support renovation, retrofitting, and facility management by delivering true-to-life representations of existing conditions. Whether it's heritage preservation, clash detection, or project validation, we help streamline your workflows, reduce costly errors, and ensure design-to-field accuracy throughout the project lifecycle.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "点群データ処理",
+          "summary": "現場で取得した3Dレーザースキャンの点群データを処理し、正確なBIMモデルに変換することで、設計・改修・施設管理を効率化。",
+          "body": "<p>ポイントクラウドモデリングは、3Dレーザースキャニングと写真測量技術を利用して、実際の環境を非常に正確なデジタル資産に変換します。その結果、既存の構造物やサイトのすべての詳細をキャプチャする数百万の空間データポイントを集めた「ポイントクラウド」が生成されます。このデータはBIMソフトウェアを使用して処理され、正確なアズビルトモデルを作成します。これにより、チームは比類のない精度で視覚化、分析、および調整を行うことができます。</p>\n<p>私たちのポイントクラウドモデリングサービスは、改修、改造、施設管理をサポートし、現状の正確な表現を提供します。遺産保存、衝突検出、プロジェクト検証など、私たちはワークフローを効率化し、高価なエラーを削減し、プロジェクトライフサイクル全体で設計から現場までの精度を確保します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "lap-va-chuan-bi-du-lieu",
+      "sortOrder": 80,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/lap-va-chuan-bi-du-lieu-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/lap-va-chuan-bi-du-lieu-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/lap-va-chuan-bi-du-lieu-2.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Lập và chuẩn bị các loại dữ liệu",
+          "summary": "Ứng dụng công nghệ BIM và point cloud để tạo lập dữ liệu xây dựng toàn diện, hỗ trợ tính toán độ phẳng sàn và kiểm soát chất lượng nâng cao cho mọi giai đoạn dự án.",
+          "body": "<p>Ứng dụng công nghệ BIM và point cloud để tạo lập dữ liệu xây dựng toàn diện, hỗ trợ tính toán độ phẳng sàn và kiểm soát chất lượng nâng cao cho mọi giai đoạn dự án.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Various Data Preparation",
+          "summary": "We utilize BIM and point cloud technology to create comprehensive construction datasets, enabling precise floor flatness calculations and advanced quality control for all stages of your building projects.",
+          "body": "<p>We utilize BIM and point cloud technology to create comprehensive construction datasets, enabling precise floor flatness calculations and advanced quality control for all stages of your building projects.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "各種データ作成",
+          "summary": "BIMと点群データ技術を活用し、建設用データを総合的に作成。床の精度計算や高度な品質管理でプロジェクトの各工程をサポートします。",
+          "body": "<p>BIMと点群データ技術を活用し、建設用データを総合的に作成。床の精度計算や高度な品質管理でプロジェクトの各工程をサポートします。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "tu-dong-tao-mo-hinh",
+      "sortOrder": 90,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/tu-dong-tao-mo-hinh-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Chương trình tự động phát sinh mô hình",
+          "summary": "Giải pháp BIM của chúng tôi tự động hóa việc tạo mô hình 3D và bóc tách khối lượng từ bản vẽ CAD 2D, giúp nâng cao độ chính xác và hiệu quả cho dự án xây dựng.",
+          "body": "<p>Giải pháp BIM của chúng tôi tự động hóa việc tạo mô hình 3D và bóc tách khối lượng từ bản vẽ CAD 2D, giúp nâng cao độ chính xác và hiệu quả cho dự án xây dựng.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Automated Model Generation Programs",
+          "summary": "Our BIM solution automates 3D model generation and quantity takeoff from 2D CAD drawings, streamlining architectural and structural workflows for enhanced accuracy and efficiency in construction projects.",
+          "body": "<p>Our BIM solution automates 3D model generation and quantity takeoff from 2D CAD drawings, streamlining architectural and structural workflows for enhanced accuracy and efficiency in construction projects.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "自動モデル発生プログラム",
+          "summary": "当社のBIMソリューションは、2次元CAD図面から3Dモデル生成と積算を自動化し、建築・構造業務の精度と効率を向上させます。",
+          "body": "<p>当社のBIMソリューションは、2次元CAD図面から3Dモデル生成と積算を自動化し、建築・構造業務の精度と効率を向上させます。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "phoi-canh-va-tai-lieu",
+      "sortOrder": 100,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/phoi-canh-va-tai-lieu-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phoi-canh-va-tai-lieu-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phoi-canh-va-tai-lieu-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phoi-canh-va-tai-lieu-3.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phoi-canh-va-tai-lieu-4.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Các loại phối cảnh và tài liệu liên quan",
+          "summary": "Bạn có thể trải nghiệm không gian thực tế thông qua phối cảnh 360 độ và walkthrough 3D.",
+          "body": "<p>Bạn có thể trải nghiệm không gian thực tế thông qua phối cảnh 360 độ và walkthrough 3D.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Various Perspective Renderings and Others",
+          "summary": "You can experience the space realistically with 360-degree renderings and 3D walkthroughs.",
+          "body": "<p>You can experience the space realistically with 360-degree renderings and 3D walkthroughs.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "各種パース他",
+          "summary": "360度パースやウォークスルー３Dパースで空間をリアルに体験できます。",
+          "body": "<p>360度パースやウォークスルー３Dパースで空間をリアルに体験できます。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "san-xuat-video",
+      "sortOrder": 110,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/san-xuat-video-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Sản xuất các loại video",
+          "summary": "Chuyên sản xuất các loại video mô phỏng công trình xây dựng và trình chiếu kỹ thuật số chuyên nghiệp.",
+          "body": "<p>Chuyên sản xuất các loại video mô phỏng công trình xây dựng và trình chiếu kỹ thuật số chuyên nghiệp.</p>\n<p>Chúng tôi tạo ra hình ảnh động và hoạt cảnh nhằm hỗ trợ việc xem xét thiết kế và thuyết trình, mang đến cái nhìn rõ ràng giúp tăng cường hiểu biết trong thảo luận dự án.</p>\n<p>Các công cụ trực quan này cho phép giao tiếp hiệu quả với các bên liên quan, đảm bảo truyền đạt ý tưởng chính xác, thúc đẩy hợp tác và xây dựng sự đồng thuận vững chắc xuyên suốt quá trình.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Various Video Production",
+          "summary": "Our company specializes in producing various construction simulation videos and professional digital presentations for the industry.",
+          "body": "<p>Our company specializes in producing various construction simulation videos and professional digital presentations for the industry.</p>\n<p>We create dynamic visuals and animations designed to support design reviews and presentations, providing clear insights that strengthen understanding and communication during crucial project discussions.</p>\n<p>These visual tools enable effective communication with stakeholders, ensuring ideas are conveyed accurately, fostering collaboration, and building stronger consensus throughout every stage of the design and construction process.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "各種ビデオ制作",
+          "summary": "建設シミュレーション動画やデジタルプレゼンテーションの制作を専門に提供。",
+          "body": "<p>建設シミュレーション動画やデジタルプレゼンテーションの制作を専門に提供。</p>\n<p>私たちは、設計レビューやプレゼンテーションを支援するために、動的なビジュアルとアニメーションを作成し、重要なプロジェクト議論において理解を深める明確な洞察を提供します。</p>\n<p>これらのビジュアルツールは、利害関係者との効果的なコミュニケーションを可能にし、正確な情報伝達を保証し、協力を促進し、設計から施工まで強固な合意形成を支えます。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "mo-hinh-gia-lap-ky-thuat-so",
+      "sortOrder": 120,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/mo-hinh-gia-lap-ky-thuat-so-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-gia-lap-ky-thuat-so-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-gia-lap-ky-thuat-so-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-gia-lap-ky-thuat-so-3.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-gia-lap-ky-thuat-so-4.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Mô hình giả lập kỹ thuật số",
+          "summary": "Bằng cách sử dụng mô hình kỹ thuật số, có thể kiểm tra sự can thiệp giữa các cấu trúc và thiết bị ở giai đoạn thiết kế và ngăn ngừa lỗi xây dựng trước khi chúng xảy ra.",
+          "body": "<p>Bằng cách sử dụng mô hình kỹ thuật số, có thể kiểm tra sự can thiệp giữa các cấu trúc và thiết bị ở giai đoạn thiết kế và ngăn ngừa lỗi xây dựng trước khi chúng xảy ra.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Digital Mockup",
+          "summary": "By utilizing digital mockups, we can check for interference between structures and equipment at the design stage and prevent construction errors before they occur.",
+          "body": "<p>By utilizing digital mockups, we can check for interference between structures and equipment at the design stage and prevent construction errors before they occur.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "デジタルモックアップ",
+          "summary": "デジタルモックアップを活用し、設計段階で構造や設備の干渉を確認し、施工ミスを未然に防ぎます。",
+          "body": "<p>デジタルモックアップを活用し、設計段階で構造や設備の干渉を確認し、施工ミスを未然に防ぎます。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "phan-tich-mo-phong-6d",
+      "sortOrder": 130,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/phan-tich-mo-phong-6d-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phan-tich-mo-phong-6d-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phan-tich-mo-phong-6d-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phan-tich-mo-phong-6d-3.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Phân tích mô phỏng đa dạng (6D)",
+          "summary": "Hệ thống hỗ trợ nhiều loại phân tích 6D, bao gồm chiếu sáng hàng năm, mô phỏng giao thông và phân tích độ sáng trong nhà.",
+          "body": "<p>Hệ thống hỗ trợ nhiều loại phân tích 6D, bao gồm chiếu sáng hàng năm, mô phỏng giao thông và phân tích độ sáng trong nhà.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Various Simulation Analyses (6D)",
+          "summary": "The system supports various 6D analyses, including annual sunlight analysis, traffic simulation, and indoor lighting distribution analysis.",
+          "body": "<p>The system supports various 6D analyses, including annual sunlight analysis, traffic simulation, and indoor lighting distribution analysis.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "各種シミュレーション解析（6D）",
+          "summary": "年間日照解析や交通渋滞シミュレーション、室内照度分布解析で環境性能を総合的に評価します。",
+          "body": "<p>年間日照解析や交通渋滞シミュレーション、室内照度分布解析で環境性能を総合的に評価します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "phat-trien-revit-api",
+      "sortOrder": 140,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/phat-trien-revit-api-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phat-trien-revit-api-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phat-trien-revit-api-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phat-trien-revit-api-3.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/phat-trien-revit-api-4.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Phát triển API Revit",
+          "summary": "Chúng tôi phát triển nhiều công cụ Revit API, như tự động bố trí vòi chữa cháy, ổ cắm, tính toán tải điện và tạo giàn nho.",
+          "body": "<p>Chúng tôi phát triển nhiều công cụ Revit API, như tự động bố trí vòi chữa cháy, ổ cắm, tính toán tải điện và tạo giàn nho.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Revit API Development (Custom)",
+          "summary": "We develop various Revit API tools, including automatic placement of fire hydrants and outlets, load calculation, and vine trellis generation.",
+          "body": "<p>We develop various Revit API tools, including automatic placement of fire hydrants and outlets, load calculation, and vine trellis generation.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "各種Revit API開発",
+          "summary": "屋内消火栓やコンセント自動配置、負荷集計やブドウ棚作成など各種Revit API開発を行っています。",
+          "body": "<p>屋内消火栓やコンセント自動配置、負荷集計やブドウ棚作成など各種Revit API開発を行っています。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "mo-hinh-van-hanh-bao-tri-7d",
+      "sortOrder": 150,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/mo-hinh-van-hanh-bao-tri-7d-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-van-hanh-bao-tri-7d-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-van-hanh-bao-tri-7d-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/mo-hinh-van-hanh-bao-tri-7d-3.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Mô hình quản lý vận hành và bảo trì (FM) (7D)",
+          "summary": "Mô hình quản lý vận hành và bảo trì hỗ trợ quản lý tập trung thông tin thiết bị, thông tin bảo trì, trực quan hóa hệ thống thiết bị trong nhà để nâng cao hiệu quả vận hành và bảo trì công trình.",
+          "body": "<p>Mô hình quản lý vận hành và bảo trì hỗ trợ quản lý tập trung thông tin thiết bị, thông tin bảo trì, trực quan hóa hệ thống thiết bị trong nhà để nâng cao hiệu quả vận hành và bảo trì công trình.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Facility Management Model (FM) (7D)",
+          "summary": "The Facility Management Model centralizes equipment documents and maintenance data while visualizing valve systems, outdoor units to support efficient building operation and maintenance.",
+          "body": "<p>The Facility Management Model centralizes equipment documents and maintenance data while visualizing valve systems, outdoor units to support efficient building operation and maintenance.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "維持管理モデル（FM）（7D)",
+          "summary": "維持管理モデルでは、機器の仕様書、バルブ系統や室外機・室内空調機の位置情報を可視化し、建物設備の効率的な運用・保守管理を支援します。",
+          "body": "<p>維持管理モデルでは、機器の仕様書、バルブ系統や室外機・室内空調機の位置情報を可視化し、建物設備の効率的な運用・保守管理を支援します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "tobic-xr",
+      "sortOrder": 160,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/tobic-xr-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "TOBIC-XR (VR / AR / MR, v.v.)",
+          "summary": "Cung cấp giải pháp XR tiên tiến dựa trên BIM, tích hợp AR, VR, MR để mô phỏng thiết kế, trình chiếu quy trình thi công và nâng cao phối hợp dự án qua mô hình số trực quan.",
+          "body": "<p>Cung cấp giải pháp XR tiên tiến dựa trên BIM, tích hợp AR, VR, MR để mô phỏng thiết kế, trình chiếu quy trình thi công và nâng cao phối hợp dự án qua mô hình số trực quan.</p>\n<p>Đây là một trong những sản phẩm mới của công ty, chương trình VR mô phỏng lái xe buýt mang đến trải nghiệm chân thực như đang ngồi sau tay lái, giúp người dùng rèn luyện kỹ năng điều khiển trong môi trường an toàn.</p>\n<p>Các giải pháp XR này tăng cường hợp tác nhóm và thuyết trình dự án, cho phép các bên liên quan tương tác trực tiếp, cải thiện quyết định và nâng cao giao tiếp trong mọi giai đoạn dự án.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "TOBIC-XR (VR / AR / MR, etc.)",
+          "summary": "We deliver advanced BIM-based XR solutions, combining AR, VR, and MR to visualize construction processes, simulate building designs, and enhance project coordination through immersive digital mockups and 360-degree site integration.",
+          "body": "<p>We deliver advanced BIM-based XR solutions, combining AR, VR, and MR to visualize construction processes, simulate building designs, and enhance project coordination through immersive digital mockups and 360-degree site integration.</p>\n<p>This is one of the company’s new products, a VR bus driving simulation program that offers a realistic experience as if you were behind the wheel, helping users practice driving skills in a safe environment.</p>\n<p>These XR solutions enhance team collaboration and project presentations, enabling stakeholders to engage with designs in real time, improve decision-making, and achieve stronger communication across all project phases.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "TOBIC-XR (VR・AR・MRなど)",
+          "summary": "BIMを活用したXRソリューションを提供し、AR・VR・MRによる施工プロセスの可視化や設計シミュレーション、360度現場連携でプロジェクトの調整を強化。",
+          "body": "<p>BIMを活用したXRソリューションを提供し、AR・VR・MRによる施工プロセスの可視化や設計シミュレーション、360度現場連携でプロジェクトの調整を強化。</p>\n<p>これは会社の新製品の一つであり、バス運転をVRで再現したプログラムです。まるで実際にハンドルを握っているかのようなリアルな体験を提供し、安全な環境で運転技術を磨くことができます。</p>\n<p>これらのXRソリューションは、チームコラボレーションやプロジェクトプレゼンテーションを強化し、利害関係者がリアルタイムで設計に関わることで、意思決定を改善し、効果的なコミュニケーションを実現します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "ban-ve-thi-cong",
+      "sortOrder": 170,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/ban-ve-thi-cong-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/ban-ve-thi-cong-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/ban-ve-thi-cong-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/ban-ve-thi-cong-3.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Bản vẽ thi công kiến trúc / Bản vẽ thi công MEP / Bản vẽ lắp dựng và chế tạo kết cấu thép",
+          "summary": "Cung cấp bản vẽ thi công BIM cho kết cấu thép, kiến trúc và MEP, đảm bảo độ chính xác và phối hợp hiệu quả dự án.",
+          "body": "<p>Cung cấp bản vẽ thi công BIM cho kết cấu thép, kiến trúc và MEP, đảm bảo độ chính xác và phối hợp hiệu quả dự án.</p>\n<p>Bản vẽ thiết kế và thi công của chúng tôi cung cấp kế hoạch tổng thể về kiến trúc, thiết bị và hệ thống, đảm bảo mọi yếu tố đều chính xác và phù hợp yêu cầu dự án.</p>\n<p>Các bản vẽ tùy chỉnh này hỗ trợ thi công ngoài hiện trường một cách chính xác và hiệu quả, cung cấp hướng dẫn rõ ràng, giảm sai sót và đảm bảo phối hợp suôn sẻ giữa thiết kế và thi công.</p>\n<p>Các Bản Vẽ Xây Dựng Thép của chúng tôi cung cấp các kế hoạch toàn diện và chính xác cho việc chế tạo và lắp ráp các cấu trúc thép. Được thiết kế bởi các kỹ sư kết cấu có kinh nghiệm, các bản vẽ này bao gồm các thông số chi tiết cho dầm, cột, kết nối và loại vật liệu, đảm bảo rằng mọi thành phần đều phù hợp với tính toàn vẹn kết cấu và các tiêu chuẩn an toàn của dự án.</p>\n<p>Từ chi tiết kết nối đến hướng dẫn chế tạo, bản vẽ của chúng tôi cung cấp các hướng dẫn rõ ràng về hàn, bu lông và lắp đặt. Bằng cách sử dụng các công cụ thiết kế tiên tiến và các phương pháp tốt nhất trong ngành, chúng tôi cung cấp các bản vẽ xây dựng thép chính xác, chất lượng cao giúp đơn giản hóa quá trình xây dựng, giảm thiểu lỗi và đảm bảo chuyển giao suôn sẻ từ thiết kế sang chế tạo và thi công.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Architectural Construction Drawings / MEP Construction Drawings / Steel Shop and Erection Drawings",
+          "summary": "We provide BIM-based shop drawings for steel structures, architecture, and MEP, ensuring construction accuracy and seamless project coordination.",
+          "body": "<p>We provide BIM-based shop drawings for steel structures, architecture, and MEP, ensuring construction accuracy and seamless project coordination.</p>\n<p>Our design and construction drawings deliver comprehensive architectural, equipment, and system plans, ensuring every element is accurately represented and fully aligned with project requirements from concept through execution.</p>\n<p>These customized drawings support precise and efficient execution in the field, providing clear guidance for contractors, reducing errors, and enabling smooth coordination between design intent and construction activities.</p>\n<p>Our Steel Construction Drawings provide comprehensive, precise plans for the fabrication and assembly of steel structures. Designed by experienced structural engineers, these drawings include detailed specifications for beams, columns, connections, and material types, ensuring that every component aligns with the project's structural integrity and safety standards.</p>\n<p>From connection details to fabrication guidelines, our drawings offer clear instructions for welding, bolting, and installation. By leveraging advanced design tools and industry best practices, we deliver high-quality, accurate steel construction drawings that streamline the building process, reduce errors, and ensure a seamless transition from design to fabrication and construction.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "建築施工図 / 設備施工図 / 鉄骨施工図",
+          "summary": "当社は、鉄骨・建築・設備分野においてBIM施工図を作成し、高精度な施工とプロジェクトの円滑な連携を実現します。",
+          "body": "<p>当社は、鉄骨・建築・設備分野においてBIM施工図を作成し、高精度な施工とプロジェクトの円滑な連携を実現します。</p>\n<p>当社の設計・施工図は、建築、設備、システムの包括的な計画を提供し、あらゆる要素が正確に表現され、プロジェクト要件に沿って統合されます。</p>\n<p>これらのカスタマイズされた図面は、現場での正確かつ効率的な施工を支援し、施工業者への明確な指針を示し、設計意図と施工活動の円滑な連携を実現します。</p>\n<p>私たちの鋼構造図面は、鋼構造物の製作および組み立てのための包括的で正確な計画を提供します。経験豊富な構造エンジニアによって設計されたこれらの図面には、梁、柱、接続、材料の詳細な仕様が含まれており、すべてのコンポーネントがプロジェクトの構造的整合性と安全基準に合致しています。</p>\n<p>接続詳細から製作ガイドラインに至るまで、私たちの図面は溶接、ボルト止め、設置に関する明確な指示を提供します。高度な設計ツールと業界のベストプラクティスを活用することで、私たちは高品質で正確な鋼構造図面を提供し、建設プロセスを効率化し、エラーを削減し、設計から製作および施工へのスムーズな移行を保証します。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "ban-ve-che-tao-alc-ecp",
+      "sortOrder": 180,
+      "isPublished": true,
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "coverImageUrl": "/uploads/legacy/ban-ve-che-tao-alc-ecp-cover.webp",
+      "gallery": [
+        {
+          "type": "image",
+          "url": "/uploads/legacy/ban-ve-che-tao-alc-ecp-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/ban-ve-che-tao-alc-ecp-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/ban-ve-che-tao-alc-ecp-3.webp"
+        },
+        {
+          "type": "image",
+          "url": "/uploads/legacy/ban-ve-che-tao-alc-ecp-4.webp"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Bản vẽ chế tạo (tấm ALC - ECP)",
+          "summary": "Bản vẽ chế tạo (ALC–ECP) được tạo dựa trên mô hình BIM để đảm bảo kích thước và vị trí lắp đặt chính xác của các tấm panel.",
+          "body": "<p>Bản vẽ chế tạo (ALC–ECP) được tạo dựa trên mô hình BIM để đảm bảo kích thước và vị trí lắp đặt chính xác của các tấm panel.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Fabrication Drawings (ALC - ECP)",
+          "summary": "Fabrication drawings are created based on BIM models to ensure accurate panel dimensions and installation alignment.",
+          "body": "<p>Fabrication drawings are created based on BIM models to ensure accurate panel dimensions and installation alignment.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "製作図 (ALC - ECP)",
+          "summary": "製作図（ALC・ECP）は、BIMモデルを基に作成し、パネルの寸法や取付位置を正確に把握します。",
+          "body": "<p>製作図（ALC・ECP）は、BIMモデルを基に作成し、パネルの寸法や取付位置を正確に把握します。</p>"
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "slug": "tobic-ar-vr-tai-iuh-2025",
+      "isPublished": true,
+      "publishedAt": "2025-03-16T09:00:00+07:00",
+      "coverImageUrl": "/uploads/legacy/tobic-ar-vr-tai-iuh-2025-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "TOBIC mang trải nghiệm AR/VR đến sự kiện Giao lưu Văn hóa và STEM Quốc tế tại IUH",
+          "excerpt": "Vào ngày 15/03/2025, IUH đã tổ chức hoạt động trải nghiệm gian hàng STEM trong khuôn khổ Tuần lễ giao lưu văn hoá quốc tế lần thứ 3.",
+          "body": "<p>Vào sáng ngày 15 tháng 3 năm 2025, Tuần lễ Giao lưu Văn hóa Quốc tế lần thứ 3 tại Trường Đại học Công nghiệp TP.HCM (IUH) đã chính thức khai mạc với triển lãm STEM đầy sôi động. Sự kiện đã chào đón hơn 1.000 học sinh trung học từ tỉnh Tây Ninh cùng với sinh viên IUH và sinh viên quốc tế đến từ các quốc gia như Nhật Bản, Đài Loan, Hàn Quốc, Canada, Đức và Pháp.</p>\n<p>Một trong những đơn vị nổi bật tham gia là TOBIC – công ty công nghệ được Đại học Công nghệ Tokyo tin tưởng và công nhận thông qua nhiều hoạt động hợp tác giáo dục. Tại sự kiện lần này, TOBIC đã tham gia cùng một sinh viên đến từ Đại học Công nghệ Tokyo, góp phần củng cố cầu nối giữa học thuật và công nghiệp.</p>\n<p>Gian hàng của TOBIC mang đến trải nghiệm thực tế với các công nghệ AR và VR tiên tiến, thu hút sự quan tâm và hào hứng từ cả học sinh trung học lẫn sinh viên đại học. Những màn trình diễn tương tác đã mở ra cái nhìn đầy hấp dẫn về tiềm năng của công nghệ thực tế ảo trong giáo dục, giải trí và nhiều lĩnh vực khác.</p>\n<figure><img src=\"/uploads/legacy/tobic-ar-vr-tai-iuh-2025-1.webp\" alt=\"\" /></figure>\n<figure><img src=\"/uploads/legacy/tobic-ar-vr-tai-iuh-2025-2.webp\" alt=\"\" /></figure>\n<p>Sự kiện chính thức bắt đầu vào lúc 8 giờ sáng và kéo dài đến hết buổi sáng, tạo nên một không gian giao lưu văn hóa sôi động, nơi sinh viên có thể khám phá các đổi mới STEM và góc nhìn toàn cầu. Đại diện cho TOBIC là chị Mai và anh Vĩnh, những người đã hướng dẫn khách tham quan trải nghiệm công nghệ ảo và giải đáp các thắc mắc.</p>\n<p>Sự góp mặt của TOBIC đã mang đến một làn gió công nghệ hiện đại và sinh động cho sự kiện, để lại ấn tượng sâu sắc trong lòng người tham dự và góp phần thúc đẩy hợp tác giáo dục quốc tế.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "TOBIC Brings AR/VR Experience to IUH International STEM and Cultural Exchange Event",
+          "excerpt": "On March 15, 2025, Industrial University of Ho Chi Minh City held a STEM booth experience activity as part of the 3rd International Cultural Exchange Week.",
+          "body": "<p>On the morning of March 15, 2025, the 3rd International Cultural Exchange Week at Ho Chi Minh City University of Industry (IUH) kicked off with an exciting STEM exhibition. The event welcomed over 1,000 high school students from Tay Ninh Province, along with IUH students and international students from countries including Japan, Taiwan, South Korea, Canada, Germany, and France.</p>\n<p>Among the standout participants was TOBIC, a technology company recognized and trusted by Tokyo University of Technology for its consistent collaboration in educational activities. For this event, TOBIC joined the program alongside a student from Tokyo University of Technology, reinforcing the bridge between academia and industry.</p>\n<p>TOBIC’s booth offered hands-on experiences with cutting-edge AR and VR technologies, drawing great interest and excitement from both high school students and university attendees. The interactive demonstrations provided a glimpse into the possibilities of immersive technology and its applications in education, entertainment, and beyond.</p>\n<figure><img src=\"/uploads/legacy/tobic-ar-vr-tai-iuh-2025-1.webp\" alt=\"\" /></figure>\n<figure><img src=\"/uploads/legacy/tobic-ar-vr-tai-iuh-2025-2.webp\" alt=\"\" /></figure>\n<p>The event officially began at 8:00 AM and continued through the morning, creating a vibrant, cross-cultural atmosphere where students could explore STEM innovations and global perspectives. Representing TOBIC were Ms. Mai and Mr. Vinh, who guided participants through the virtual experiences and answered questions about the technology.</p>\n<p>TOBIC’s contribution added a dynamic and futuristic dimension to the event, leaving a strong impression on participants and further strengthening international educational cooperation.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "TOBIC、IUH国際STEM・文化交流イベントにAR/VR体験を提供",
+          "excerpt": "2025年3月15日、IUHは第3回国際文化交流週間の一環として、STEMブース体験イベントを開催しました。",
+          "body": "<p>2025年3月15日の朝、ホーチミン市工業大学（IUH）にて第3回国際文化交流週間が、活気あふれるSTEM展示で開幕しました。本イベントには、タイニン省の高校生1,000人以上をはじめ、IUHの学生や日本、台湾、韓国、カナダ、ドイツ、フランスなどからの留学生が参加しました。</p>\n<p>中でも注目を集めたのは、教育活動において東京工科大学からの継続的な協力により信頼されているテクノロジー企業、TOBICです。今回のイベントでは、東京工科大学の学生とともに参加し、学術と産業の架け橋をより一層強化しました。</p>\n<p>TOBICのブースでは、最先端のARおよびVR技術を使った体験型デモンストレーションが行われ、高校生や大学生から大きな関心と興奮を集めました。インタラクティブな展示により、没入型技術の教育、エンターテインメント、その他分野への応用可能性が紹介されました。</p>\n<figure><img src=\"/uploads/legacy/tobic-ar-vr-tai-iuh-2025-1.webp\" alt=\"\" /></figure>\n<figure><img src=\"/uploads/legacy/tobic-ar-vr-tai-iuh-2025-2.webp\" alt=\"\" /></figure>\n<p>イベントは午前8時に正式に始まり、午前中を通じて開催されました。異文化交流の場として、学生たちはSTEMの革新とグローバルな視点に触れることができました。TOBICを代表して、マイさんとヴィンさんが来場者にバーチャル体験を案内し、技術に関する質問に対応しました。</p>\n<p>TOBICの参加は、イベントに未来志向のダイナミックな要素を加え、参加者に強い印象を残し、国際的な教育協力の強化に貢献しました。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "sinh-vien-bach-khoa-tham-quan-tobic",
+      "isPublished": true,
+      "publishedAt": "2024-11-06T09:00:00+07:00",
+      "coverImageUrl": "/uploads/legacy/sinh-vien-bach-khoa-tham-quan-tobic-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Sinh viên Kiến trúc từ Đại học Bách khoa TP.HCM đến tham quan và trải nghiệm thực tế tại TOBIC",
+          "excerpt": "Sinh viên đã có cơ hội tìm hiểu chuyên sâu về cách ứng dụng BIM trong các dự án xây dựng quy mô lớn, từ thiết kế đến quản lý dự án.",
+          "body": "<p>Sinh viên ngành Kiến trúc từ Đại học Bách khoa TP.HCM đã có cơ hội tham quan và trải nghiệm thực tế tại Công ty TNHH TOBIC. TOBIC là công ty con của Tập đoàn TODA – một trong những doanh nghiệp hàng đầu Nhật Bản trong lĩnh vực công nghệ xây dựng, chuyên về BIM (Mô hình Thông tin Công trình) và các công nghệ xây dựng tiên tiến khác. Những điểm nổi bật của chuyến thăm:</p>\n<p>Hiểu biết về quy trình BIM chuyên nghiệp: Sinh viên đã tìm hiểu chi tiết cách BIM được áp dụng trong các dự án xây dựng quy mô lớn, từ giai đoạn thiết kế đến quản lý thi công.</p>\n<p>Trải nghiệm công nghệ tiên tiến: Thông qua phần giới thiệu và thực hành với các công cụ, phần mềm BIM hiện đại như Revit, Archicad, Navisworks và Rebro, cùng với trải nghiệm thực tế bằng VR, AR, MR, sinh viên đã hiểu rõ hơn về cách ứng dụng công nghệ vào kiến trúc và xây dựng.</p>\n<figure><img src=\"/uploads/legacy/sinh-vien-bach-khoa-tham-quan-tobic-1.webp\" alt=\"\" /></figure>\n<p>Giao lưu với các chuyên gia hàng đầu: Thông qua tương tác với đội ngũ chuyên gia giàu kinh nghiệm của TOBIC, sinh viên đã tích lũy được kiến thức thực tiễn quý báu và nhận được lời khuyên nghề nghiệp.</p>\n<figure><img src=\"/uploads/legacy/sinh-vien-bach-khoa-tham-quan-tobic-2.webp\" alt=\"\" /></figure>\n<p>Tham quan công trình thực tế: Sinh viên đã có dịp tham quan các dự án mà TOBIC đang thực hiện, qua đó hiểu rõ hơn về quy trình thi công, quản lý chất lượng và tiến độ dự án.</p>\n<p>Chuyến thăm này không chỉ cung cấp kiến thức chuyên môn mà còn là nguồn cảm hứng và động lực cho các bạn trẻ đam mê kiến trúc theo đuổi sự nghiệp tương lai. Đại học Bách khoa TP.HCM và TOBIC hy vọng chuyến đi sẽ là cơ hội học tập quý báu, giúp sinh viên tự tin tiến bước trên con đường sự nghiệp bằng cách không ngừng rèn luyện kiến thức và kỹ năng.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "Architecture Students from Ho Chi Minh City University of Technology Visit and Experience TOBIC Firsthand",
+          "excerpt": "Students had the opportunity to gain in-depth insights into how BIM is applied in large construction projects, from design to project management.",
+          "body": "<p>Students majoring in Architecture at Ho Chi Minh City University of Technology had the opportunity to visit and gain hands-on experience at TOBIC Co., Ltd. TOBIC is a subsidiary of TODA Group, one of Japan’s leading companies in the construction technology sector, specializing in BIM (Building Information Modeling) and other advanced construction technologies. Higlights of the visit:</p>\n<p>Understanding of a Professional BIM Process: The students learned in detail how BIM is utilized in large-scale construction projects, from the design phase to construction management.</p>\n<p>Experience with Cutting-edge Technology: Through introductions and hands-on practice with advanced BIM tools and software such as Revit, Archicad, Navisworks, and Rebro, as well as on-site experiences using VR, AR, and MR, the students gained a practical understanding of how technological solutions are applied in architecture and construction.</p>\n<figure><img src=\"/uploads/legacy/sinh-vien-bach-khoa-tham-quan-tobic-1.webp\" alt=\"\" /></figure>\n<p>Interaction with Top Experts: By engaging with TOBIC’s team of experienced professionals, students acquired valuable real-world knowledge and received career guidance</p>\n<figure><img src=\"/uploads/legacy/sinh-vien-bach-khoa-tham-quan-tobic-2.webp\" alt=\"\" /></figure>\n<p>On-site Project Tours: The visit also included a tour of ongoing TOBIC projects, providing students with insight into construction management, quality control, and project progress.</p>\n<p>This visit not only provided technical knowledge but also served as inspiration and motivation for young individuals passionate about architecture to pursue their future careers. Ho Chi Minh City University of Technology and TOBIC hope that this visit becomes a valuable learning experience for the students and helps them take confident steps toward their future careers by continuously honing their knowledge and skills.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "ホーチミン市工科大学の建築学専攻の学生たちがTOBICを訪問・体験",
+          "excerpt": "学生たちは、設計からプロジェクト管理まで、大規模建設プロジェクトにおけるBIMの応用について深く学ぶ機会を得ました。",
+          "body": "<p>ホーチミン市工科大学の建築学専攻の学生たちは、TOBIC株式会社を訪問し、実地見学と体験の機会を得ました。TOBICは、日本の建設技術分野におけるトップ企業の一つであるTODAグループの子会社であり、BIM（建築情報モデリング）やその他の先端建設技術に特化しています。訪問のハイライト：</p>\n<p>プロフェッショナルなBIMプロセスの理解：学生たちは、設計段階から施工管理まで、大規模な建設プロジェクトにおけるBIMの活用方法について詳細に学びました。</p>\n<p>最新技術の体験：Revit、Archicad、Navisworks、Rebroといった先進的なBIMツールやソフトウェアの紹介と実習、さらにVR、AR、MRを活用した体験を通じて、建築および建設における技術の応用方法を実感しました。</p>\n<figure><img src=\"/uploads/legacy/sinh-vien-bach-khoa-tham-quan-tobic-1.webp\" alt=\"\" /></figure>\n<p>トップエキスパートとの交流：TOBICの経験豊富な専門家チームとの交流を通じて、学生たちは貴重な実務知識を得て、将来のキャリアに向けたアドバイスを受けました。</p>\n<figure><img src=\"/uploads/legacy/sinh-vien-bach-khoa-tham-quan-tobic-2.webp\" alt=\"\" /></figure>\n<p>プロジェクトの実地見学：TOBICが現在手がけているプロジェクトの一部を見学し、施工管理、品質管理、進行プロセスの理解を深めました。</p>\n<p>この訪問は、専門知識の習得にとどまらず、建築に情熱を持つ若者たちにとっての刺激となり、将来のキャリアへのモチベーションにもなりました。ホーチミン市工科大学とTOBICは、この訪問が学生にとって有益な学びの機会となり、今後も知識とスキルを磨き、確かな一歩を踏み出す手助けになることを願っています。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "doi-bong-da-tobic",
+      "isPublished": false,
+      "coverImageUrl": "/uploads/legacy/doi-bong-da-tobic-cover.webp",
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Đội Bóng Đá TOBIC",
+          "excerpt": "Đội bóng đá TOBIC là nơi hội tụ những thành viên đam mê thể thao, rèn luyện sức khỏe và gắn kết đồng đội. Với lịch tập luyện cố định vào tối thứ 5 hằng tuần, đội tạo nên sân chơi lành mạnh, sôi nổi sau giờ làm và góp phần xây dựng văn hóa nội bộ tích cực tại TOBIC.",
+          "body": "<p>Đội bóng đá TOBIC là nơi hội tụ những thành viên đam mê thể thao, rèn luyện sức khỏe và gắn kết đồng đội. Với lịch tập luyện cố định vào tối thứ 5 hằng tuần, đội tạo nên sân chơi lành mạnh, sôi nổi sau giờ làm và góp phần xây dựng văn hóa nội bộ tích cực tại TOBIC.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "TOBIC's Football Team",
+          "excerpt": "The TOBIC football team brings together members who are passionate about sports, aiming to improve health and strengthen team bonds. With regular practice every Thursday evening, the team creates a vibrant and healthy playground after work, contributing to building a positive internal culture at TOBIC.",
+          "body": "<p>The TOBIC football team brings together members who are passionate about sports, aiming to improve health and strengthen team bonds. With regular practice every Thursday evening, the team creates a vibrant and healthy playground after work, contributing to building a positive internal culture at TOBIC.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "TOBICのサッカーチーム",
+          "excerpt": "TOBICのサッカーチームは、スポーツに情熱を持つメンバーが集まり、健康を鍛え、チームワークを深める場です。毎週木曜日の夜に定期的な練習を行い、仕事後の活気ある健全な交流の場を提供し、TOBIC社内のポジティブな企業文化づくりに貢献しています。",
+          "body": "<p>TOBICのサッカーチームは、スポーツに情熱を持つメンバーが集まり、健康を鍛え、チームワークを深める場です。毎週木曜日の夜に定期的な練習を行い、仕事後の活気ある健全な交流の場を提供し、TOBIC社内のポジティブな企業文化づくりに貢献しています。</p>"
+        }
+      ]
+    },
+    {
+      "slug": "giai-cau-long-tobic",
+      "isPublished": false,
+      "coverImageUrl": null,
+      "gallery": [],
+      "translations": [
+        {
+          "lang": "vi",
+          "title": "Giải cầu lông TOBIC",
+          "excerpt": "Tham gia cùng chúng tôi trong một ngày đầy sôi động với tinh thần đồng đội và thi đấu hữu nghị tại giải cầu lông đầu tiên của TOBIC.",
+          "body": "<p>Tham gia cùng chúng tôi trong một ngày đầy sôi động với tinh thần đồng đội và thi đấu hữu nghị tại giải cầu lông đầu tiên của TOBIC.</p>"
+        },
+        {
+          "lang": "en",
+          "title": "TOBIC's Badminton Tournament",
+          "excerpt": "Join us for an exciting day of friendly competition and team spirit as we kick off our first-ever badminton tournament.",
+          "body": "<p>Join us for an exciting day of friendly competition and team spirit as we kick off our first-ever badminton tournament.</p>"
+        },
+        {
+          "lang": "ja",
+          "title": "TOBICバドミントン大会",
+          "excerpt": "チームスピリットと友情を楽しみながら、TOBIC初のバドミントン大会にぜひご参加ください。",
+          "body": "<p>チームスピリットと友情を楽しみながら、TOBIC初のバドミントン大会にぜひご参加ください。</p>"
+        }
+      ]
+    }
+  ],
+  "jobs": []
+}

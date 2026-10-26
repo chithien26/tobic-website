@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "news": "Tin tức",
+    "careers": "Tuyển dụng",
+    "contact": "Liên hệ"
+  },
+  "home": {
+    "welcome": "Chào mừng đến với",
+    "intro": "Đối tác chuyên gia của bạn trong phát triển BIM",
+    "innovationTitle": "Sự đổi mới bắt đầu từ đây",
+    "innovationDesc": "Thúc đẩy sự phát triển của dự án bằng cách khai thác các giải pháp công nghệ BIM tiên tiến. Chuyên hợp lý hóa quy trình xây dựng, tích hợp các công cụ sáng tạo và cung cấp hỗ trợ được cá nhân hóa.",
+    "innovation": [
+      {
+        "title": "Giải pháp BIM tiên tiến",
+        "desc": "Các giải pháp BIM tiên tiến của chúng tôi được thiết kế để nâng cao khả năng lập kế hoạch, thực hiện và hợp tác dự án của bạn, thúc đẩy thành công trong xây dựng."
+      },
+      {
+        "title": "Tích hợp công nghệ tiên tiến",
+        "desc": "Tích hợp các công nghệ BIM tiên tiến như BIM Cloud, Scan To BIM và Digital Twin để hợp lý hóa các dự án xây dựng. Tự động hóa thiết kế, phối hợp và quản lý nhiệm vụ, tăng cường sự hợp tác của nhóm."
+      },
+      {
+        "title": "Đội ngũ BIM giàu kinh nghiệm",
+        "desc": "Đội ngũ BIM chuyên gia đảm bảo triển khai liền mạch trong suốt vòng đời dự án của bạn, từ thiết kế đến quản lý cơ sở."
+      }
+    ],
+    "dataTitle": "Chiến lược BIM dựa trên dữ liệu",
+    "dataDesc": "Tăng cường quy trình BIM với các giải pháp phân tích dữ liệu tùy chỉnh.",
+    "data": [
+      {
+        "title": "Khả năng phân tích mạnh mẽ",
+        "desc": "Sử dụng dữ liệu thời gian thực để phân tích tiến độ, chi phí và tài nguyên, giúp nâng cao hiệu quả vận hành và hiệu suất BIM."
+      },
+      {
+        "title": "Giải pháp BIM tùy chỉnh",
+        "desc": "Tối ưu hóa mô hình, công cụ và quy trình làm việc theo yêu cầu dự án nhằm tối đa hóa kết quả và mang lại giá trị đáng tin cậy."
+      },
+      {
+        "title": "Đổi mới và cải tiến liên tục",
+        "desc": "Tích hợp các công nghệ tiên tiến để liên tục phát triển quy trình BIM, hỗ trợ năng lực cạnh tranh và thành công lâu dài của dự án."
+      }
+    ],
+    "overviewTitle": "Sơ lược về TOBIC",
+    "mindsetTitle": "Năm Tư Duy để Hạnh Phúc",
+    "servicesTitle": "Các dịch vụ của TOBIC",
+    "servicesDesc": "Trong thế giới công nghệ BIM, chúng tôi cung cấp đa dạng các giải pháp đáp ứng nhu cầu riêng biệt của bạn.",
+    "ctaTitle": "Khám phá đội ngũ lý tưởng để biến dự án xây dựng của bạn thành hiện thực!",
+    "ctaDesc": "Bắt đầu hành trình của bạn hôm nay và để phần còn lại cho chúng tôi. Mục tiêu dự án của bạn là sứ mệnh của chúng tôi.",
+    "ctaButton": "Bắt đầu ngay"
+  },
+  "about": {
+    "question": "Tại sao chọn chúng tôi cho dịch vụ BIM?",
+    "reason": "Chúng tôi cung cấp các công cụ phân tích mạnh mẽ, giải pháp BIM tùy chỉnh và tích hợp liền mạch các công nghệ tiên tiến như AI, điện toán đám mây và XR để tối ưu hóa dự án của bạn. Với dải dịch vụ toàn diện từ mô hình thiết kế, mô hình kết cấu đến các quy trình BIM 4D–7D và bản vẽ thi công, đội ngũ chuyên gia giàu kinh nghiệm của chúng tôi đảm bảo sự chính xác và hiệu quả ở mọi giai đoạn. Cam kết đổi mới liên tục, chúng tôi luôn cập nhật những tiến bộ mới nhất để cải thiện quy trình làm việc, cung cấp các giải pháp phù hợp với mục tiêu của bạn và thúc đẩy thành công dự án.",
+    "title": "Thông tin công ty",
+    "companyName": "Tên công ty:",
+    "location": "Địa chỉ:",
+    "established": "Thành lập:",
+    "ceo": "Tổng giám đốc:",
+    "workTitle": "Môi Trường Làm Việc",
+    "workDesc": "Chúng tôi xây dựng môi trường làm việc hợp tác, hòa nhập và chuyên nghiệp, khuyến khích đổi mới, hỗ trợ phát triển và đảm bảo sự tôn trọng lẫn nhau giữa các đội ngũ.",
+    "teamTitle": "Gắn kết thông qua các hoạt động ngoài trời",
+    "teamDesc": "Tham gia các hoạt động ngoài trời của chúng tôi—được thiết kế để tăng cường sự gắn kết, khuyến khích hợp tác và tiếp thêm năng lượng cho cả thể chất lẫn tinh thần."
+  },
+  "services": {
+    "title": "Dịch Vụ Của Chúng Tôi",
+    "desc": "Trong thế giới công nghệ BIM, chúng tôi cung cấp đa dạng các giải pháp đáp ứng nhu cầu riêng biệt của bạn."
+  },
+  "news": {
+    "title": "Cập nhật cùng TOBIC",
+    "intro": "Đây là mục TIN TỨC của TOBIC, nơi chúng tôi đăng tải những cập nhật và sự kiện mới nhất để bạn không bỏ lỡ bất kỳ tin tức nào."
+  },
+  "careers": {
+    "title": "Cơ Hội Việc Làm Tại TOBIC",
+    "invite": "Chào đón ứng viên thuộc mọi quốc tịch và trình độ kinh nghiệm.",
+    "invite2": "Vui lòng gửi email nếu bạn quan tâm đến việc làm ở TOBIC."
+  },
+  "contact": {
+    "title": "LIÊN HỆ VỚI CHÚNG TÔI",
+    "desc1": "Cảm ơn bạn đã quan tâm đến công ty của chúng tôi. Chúng tôi sẵn sàng hỗ trợ bạn với mọi thắc mắc hoặc yêu cầu.",
+    "desc2": "Nếu bạn muốn liên hệ với chúng tôi, vui lòng sử dụng các thông tin sau:",
+    "address": "Địa chỉ",
+    "phone": "Số điện thoại",
+    "mail": "Email",
+    "location": "Vị trí của chúng tôi",
+    "locationDesc": "Hãy ghé thăm văn phòng của chúng tôi! Chúng tôi rất mong được gặp bạn trực tiếp. Bạn có thể tìm thấy chúng tôi tại:"
+  },
+  "footer": {
+    "links": "LIÊN KẾT",
+    "company": "CÔNG TY"
+  },
+  "common": {
+    "readMore": "Xem chi tiết",
+    "back": "Quay lại",
+    "allServices": "Tất cả dịch vụ",
+    "otherServices": "Dịch vụ khác",
+    "gallery": "Hình ảnh dự án",
+    "noJobs": "Hiện chưa có vị trí đang tuyển. Bạn vẫn có thể gửi CV cho chúng tôi qua email.",
+    "noPosts": "Chưa có bài viết.",
+    "applyByEmail": "Ứng tuyển qua email",
+    "location": "Địa điểm",
+    "salary": "Mức lương",
+    "employmentType": "Hình thức",
+    "deadline": "Hạn nộp",
+    "publishedOn": "Đăng ngày",
+    "taxCode": "Mã số thuế",
+    "language": "Ngôn ngữ",
+    "notFound": "Không tìm thấy trang bạn yêu cầu.",
+    "backHome": "Về trang chủ",
+    "qrNote": "* Không viết tắt tên công ty thành \"TNHH\".",
+    "contactUs": "Liên hệ ngay",
+    "openPositions": "Vị trí đang tuyển",
+    "menu": "Mở menu",
+    "rights": "Bảo lưu mọi quyền.",
+    "unavailable": "Nội dung đang được cập nhật. Vui lòng quay lại sau.",
+    "latestNews": "Tin tức mới nhất",
+    "viewAll": "Xem tất cả"
+  }
+}

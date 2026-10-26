@@ -1,0 +1,60 @@
+# Local development: `docker compose up -d db` then run api and web natively.
+# Full stack: `docker compose --profile app up -d --build` (configure .env first).
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: tobic
+      POSTGRES_USER: tobic
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-tobic_dev}
+    ports:
+      - "5433:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tobic -d tobic"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  api:
+    profiles: [app]
+    build: ./api
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__Default: Host=db;Database=tobic;Username=tobic;Password=${POSTGRES_PASSWORD:-tobic_dev}
+      Jwt__Key: ${JWT_KEY:-}
+      Web__BaseUrl: http://web:3000
+      Web__RevalidateSecret: ${REVALIDATE_SECRET:-}
+      Cors__Origins__0: ${PUBLIC_SITE_URL:-http://localhost:3000}
+      Seed__AdminEmail: ${ADMIN_EMAIL:-admin@tobic.com.vn}
+      Seed__AdminPassword: ${ADMIN_PASSWORD:-}
+    ports:
+      - "5080:8080"
+    volumes:
+      - uploads:/app/wwwroot/uploads
+
+  web:
+    profiles: [app]
+    build:
+      context: ./web
+      args:
+        NEXT_PUBLIC_API_URL: ${PUBLIC_API_URL:-http://localhost:5080}
+    restart: unless-stopped
+    depends_on: [api]
+    environment:
+      API_URL: http://api:8080
+      NEXT_PUBLIC_API_URL: ${PUBLIC_API_URL:-http://localhost:5080}
+      REVALIDATE_SECRET: ${REVALIDATE_SECRET:-}
+      SITE_URL: ${PUBLIC_SITE_URL:-http://localhost:3000}
+    ports:
+      - "3000:3000"
+
+volumes:
+  db-data:
+  uploads:

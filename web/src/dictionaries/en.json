@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "news": "News",
+    "careers": "Recruitment",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome to",
+    "intro": "Your Expert Partner in BIM Development",
+    "innovationTitle": "Innovation Starts Here",
+    "innovationDesc": "Foster project growth by harnessing cutting-edge BIM technology solutions. We specialize in streamlining construction workflows, integrating innovative tools, and delivering personalized support.",
+    "innovation": [
+      {
+        "title": "Cutting-Edge BIM Solutions",
+        "desc": "Our advanced BIM solutions are designed to enhance your project planning, execution, and collaboration, driving construction success."
+      },
+      {
+        "title": "Innovative Technology Integration",
+        "desc": "Integrate advanced BIM technologies like BIM Cloud, Scan To BIM, and Digital Twin to streamline construction projects. Automate design, coordination, and task management, enhancing team collaboration. With our innovative BIM technology integration, we enable smarter, faster, and more efficient construction project management."
+      },
+      {
+        "title": "Experienced BIM Support",
+        "desc": "Our expert BIM team ensures seamless implementation throughout your project lifecycle, from design to facility management. We guide you in integrating, optimizing, and executing BIM models with precision, offering dedicated support to meet your unique project needs efficiently"
+      }
+    ],
+    "dataTitle": "Data-Driven BIM Strategy",
+    "dataDesc": "Optimize BIM workflows with custom data analysis, supporting efficient decision-making and high-quality outcomes.",
+    "data": [
+      {
+        "title": "Powerful Analytics",
+        "desc": "Use real-time data to analyze schedules, costs, and resources, improving BIM operational efficiency and performance."
+      },
+      {
+        "title": "Customized BIM Solutions",
+        "desc": "Optimize models, tools, and workflows according to project requirements to maximize results and deliver reliable value."
+      },
+      {
+        "title": "Continuous Innovation",
+        "desc": "Integrate advanced technologies to continuously evolve BIM processes, supporting competitiveness and long-term project success."
+      }
+    ],
+    "overviewTitle": "Overview of TOBIC",
+    "mindsetTitle": "Five Mindsets for Happiness",
+    "servicesTitle": "TOBIC'S SERVICES",
+    "servicesDesc": "In the world of BIM technologies, we offer a wide range of solutions to cater to your unique needs.",
+    "ctaTitle": "Discover the ideal team to bring your building projects to life!",
+    "ctaDesc": "Begin your journey today, and leave the rest to us. Your projects goals are our mission.",
+    "ctaButton": "Get Started"
+  },
+  "about": {
+    "question": "Why Choose Us for BIM Services?",
+    "reason": "We offer robust analytics tools, tailored BIM solutions, and seamless integration of cutting-edge technologies like AI, cloud computing, and XR to optimize your projects. With a comprehensive range of services from design and structural models to 4D-7D BIM processes and production drawings our seasoned experts ensure precision and efficiency at every stage. Committed to innovation, we continuously enhance your workflows with the latest advancements, delivering customized solutions that align with your goals and drive project success.",
+    "title": "About Us",
+    "companyName": "Company name:",
+    "location": "Location:",
+    "established": "Established:",
+    "ceo": "CEO:",
+    "workTitle": "Our Working Environment",
+    "workDesc": "We foster a collaborative, inclusive, and professional working environment that encourages innovation, supports growth, and ensures mutual respect across all teams.",
+    "teamTitle": "Building Connections Through Outdoor Activities",
+    "teamDesc": "Take part in our outdoor activities—crafted to build stronger connections, encourage collaboration, and energize both body and mind."
+  },
+  "services": {
+    "title": "What We Offer",
+    "desc": "In the world of BIM technologies, we offer a wide range of solutions to cater to your unique needs."
+  },
+  "news": {
+    "title": "Keep Up With TOBIC",
+    "intro": "This is TOBIC'S NEWS, we will post about our newest updates and events so you won't miss any news."
+  },
+  "careers": {
+    "title": "Explore Careers at TOBIC",
+    "invite": "We welcome all nationalities and experience levels.",
+    "invite2": "Please email us if you're interested in working with us."
+  },
+  "contact": {
+    "title": "GET IN TOUCH WITH US",
+    "desc1": "Thank you for your interest in our agency. We're here to assist you with any inquiries or requests you may have.",
+    "desc2": "If you would like to get in touch with us, you can use the following contact details:",
+    "address": "Address",
+    "phone": "Phone Number",
+    "mail": "Email",
+    "location": "Our Location",
+    "locationDesc": "Visit us at our office! We'd love to meet you in person. Here's where you can find us:"
+  },
+  "footer": {
+    "links": "LINKS",
+    "company": "COMPANY"
+  },
+  "common": {
+    "readMore": "Read more",
+    "back": "Back",
+    "allServices": "All services",
+    "otherServices": "Other services",
+    "gallery": "Project gallery",
+    "noJobs": "There are no open positions right now. You can still send us your CV by email.",
+    "noPosts": "No posts yet.",
+    "applyByEmail": "Apply by email",
+    "location": "Location",
+    "salary": "Salary",
+    "employmentType": "Employment type",
+    "deadline": "Deadline",
+    "publishedOn": "Published",
+    "taxCode": "Tax code",
+    "language": "Language",
+    "notFound": "The page you requested could not be found.",
+    "backHome": "Back to home",
+    "qrNote": "",
+    "contactUs": "Contact us",
+    "openPositions": "Open positions",
+    "menu": "Open menu",
+    "rights": "All rights reserved.",
+    "unavailable": "Content is being updated. Please check back later.",
+    "latestNews": "Latest news",
+    "viewAll": "View all"
+  }
+}
